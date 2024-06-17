@@ -1,8 +1,12 @@
-module-moodle
+SYNC GRADES
 =============
 Requires Core v6.0.00 or greater
 
+Import student grades from Moodle to Gibbon through course selection
 
-INSTALL/UPGRADE
+Prerequisite for use: Moodle courses and users are imported through the [Moodle plugin](https://github.com/GibbonEdu/module-moodle)
+
+INSTALL/USAGE
 ===============
-1. 
+1. config database info
+2. sync data
