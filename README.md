@@ -1,7 +1,5 @@
 SYNC GRADES
 =============
-Requires Core v6.0.00 or greater
-
 Import student grades from Moodle to Gibbon through course selection
 
 Prerequisite for use: Moodle courses and users are imported through the [Moodle plugin](https://github.com/GibbonEdu/module-moodle)
